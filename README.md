@@ -85,6 +85,9 @@ Backend/
 
 This is the frontend for the SACE project, built using React. It includes user authentication, project management, and AI integration.
 
+## Prerequisites
+- React.js
+- TailwindCSS
 
 ## Installation
 
